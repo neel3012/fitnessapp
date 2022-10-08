@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.css": "/static/css/main.e54de10f.css",
+    "main.js": "/static/js/main.fc4e59b3.js",
+    "static/js/787.60adf705.chunk.js": "/static/js/787.60adf705.chunk.js",
+    "static/media/fitu.jpg": "/static/media/fitu.20f241a1cba4e4802650.jpg",
+    "static/media/gym.png": "/static/media/gym.6e701417c428e2fbc267.png",
+    "index.html": "/index.html",
+    "main.e54de10f.css.map": "/static/css/main.e54de10f.css.map",
+    "main.fc4e59b3.js.map": "/static/js/main.fc4e59b3.js.map",
+    "787.60adf705.chunk.js.map": "/static/js/787.60adf705.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e54de10f.css",
+    "static/js/main.fc4e59b3.js"
+  ]
+}
